@@ -1,0 +1,13 @@
+<Extensions>
+  <Version>1.7</Version>
+  <Panel>
+    <Order>1</Order>
+    <PanelId>Expert</PanelId>
+    <Origin>local</Origin>
+    <Type>Home</Type>
+    <Icon>Sliders</Icon>
+    <Color>#C2C2C2</Color>
+    <Name>Hide</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
